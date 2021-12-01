@@ -1,0 +1,3 @@
+# body_fat_pred
+Hey! Suyash again, this is my new project on Machine Learning .
+I've used  KNeighborsRegressor to preditct the body fat do check it out .....
